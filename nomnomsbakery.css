@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 18px;
     overflow-x: hidden;
-    background-color: #d3f0b9;
+    background-color: #569e16;
 }
 
 ul {
@@ -258,8 +258,8 @@ h2 { margin-top: 0; }
     border-bottom: 1px solid white;
 }
 
-.tm-form-control::-webkit-input-placeholder { color: white; } /* Edge */  
-.tm-form-control:-ms-input-placeholder { color: white; } /* Internet Explorer 10-11 */  
+.tm-form-control::-webkit-input-placeholder { color: white; }   
+.tm-form-control:-ms-input-placeholder { color: white; }   
 .tm-form-control::placeholder { color: white; }
 
 .tm-btn-primary {
